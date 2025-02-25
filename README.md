@@ -1,49 +1,18 @@
-👋 Hi, I'm @nvirux!
+👋 Hi, I'm @nvirux
 
-Welcome to my GitHub profile! I'm passionate about building efficient and scalable solutions, and I love exploring new technologies.
+Passionate about building scalable VTU platforms and full-stack development with PHP, Laravel, and React.
 
-👀 Interests
+🚀 What I Do
 
-Full-stack development (PHP, Laravel, React, React Native)
+Develop secure and efficient web & mobile apps
 
-Backend security and API integrations
+Optimize backend performance and API integrations
 
-Building scalable VTU applications
-
-Automating workflows and optimizing performance
+Explore new technologies for better solutions
 
 
-🌱 Currently Learning
+📫 Connect with Me
 
-Advanced Laravel features and best practices
+🌐 netvirux (Twitter, LinkedIn, etc.)
 
-Enhancing UI/UX in React applications
-
-API security and authentication strategies
-
-
-💞️ Looking to Collaborate On
-
-VTU (Virtual Top-Up) platforms
-
-Web and mobile application development
-
-Open-source projects in PHP, Laravel, and React
-
-
-📫 How to Reach Me
-
-Email: umarbnet@gmail.com
-
-Twitter: x.com/netvirux
-
-LinkedIn: Null
-
-
-😄 Pronouns
-
-He/Him
-
-⚡ Fun Fact
-
-I love experimenting with new coding techniques and optimizing scripts for maximum efficiency!
+⚡ Fun fact: I love making code run faster and smarter!
