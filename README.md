@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Laravel, PHP, React, Node.js, Express, and mobile development with React Native**
 
-- 📫 Reach me via **umarnetviruz@gmail.com**
+- 📫 Reach me via **umarbnet@gmail.com**
 
 - ⚡ Fun fact: **I love building reusable components and optimizing API workflows**
 
@@ -27,8 +27,8 @@
 
 ## 🔗 Connect with Me
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/netvirux)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348137674779)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nvirux)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2349025293759)
 
 ---
 
@@ -79,6 +79,3 @@
 
 ---
 
-<!---
-nvirux/nvirux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
